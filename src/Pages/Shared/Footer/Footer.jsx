@@ -20,8 +20,8 @@ const Footer = () => {
         <div >
           <span className="footer-title">Services</span>
           <Link to='/' className="link link-hover">Home</Link>
-          <Link to='/' className="link link-hover">Instructors</Link>
-          <Link to='/' className="link link-hover">Classes</Link>
+          <Link to='/' className="link link-hover">Design Samples</Link>
+          <Link to='/' className="link link-hover">Order</Link>
 
 
         </div>
@@ -41,7 +41,7 @@ const Footer = () => {
 
       </footer>
       <div className="bg-[#D2D4E9] footer footer-center p-4 font-bold text-[#838F97]-content">
-        <p>Copyright © 2023 - All right reserved by Graphic Design School Ltd</p>
+        <p>Copyright © 2023 - All right reserved by Graphic Station  </p>
       </div>
     </div>
   );
